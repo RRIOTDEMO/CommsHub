@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: commshub
+  description: Communication Hub
+  tags:
+    - java
+    - springboot
+    - microservice
+spec:
+  type: service
+  lifecycle: production
+  owner: enablers
+  system: comms
