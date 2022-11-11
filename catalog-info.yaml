@@ -13,4 +13,5 @@ spec:
   owner: enablers
   system: comms
   dependsOn: ['resource:commshub-db']
-  consumesApis: ['component:jms']
+  consumesApis:
+    - jms-api
