@@ -15,3 +15,6 @@ spec:
   dependsOn: ['resource:commshub-db','component:jms']
   consumesApis:
     - jms-api
+metadata:
+  annotations:
+    backstage.io/techdocs-ref: dir:.
