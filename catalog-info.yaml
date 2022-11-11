@@ -9,7 +9,7 @@ metadata:
     - microservice
   annotations:
     backstage.io/techdocs-ref: dir:.
-    'jenkins.io/job-full-name': VF_IOT_MANAGED_CONNECTIVITY/MICROSERVICES/MicroApps_CommHub
+    jenkins.io/job-full-name: VF_IOT_MANAGED_CONNECTIVITY/MICROSERVICES/MicroApps_CommHub
 spec:
   type: service
   lifecycle: production
