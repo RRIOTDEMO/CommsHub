@@ -12,6 +12,6 @@ spec:
   lifecycle: production
   owner: enablers
   system: comms
-  dependsOn: ['resource:commshub-db']
+  dependsOn: ['resource:commshub-db','component:jms']
   consumesApis:
     - jms-api
