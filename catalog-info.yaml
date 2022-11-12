@@ -3,6 +3,10 @@ kind: Component
 metadata:
   name: commshub
   description: Communication Hub
+  links:
+    - url: https://dashboard.example.com
+      title: My Dashboard
+      icon: dashboard
   tags:
     - java
     - springboot
