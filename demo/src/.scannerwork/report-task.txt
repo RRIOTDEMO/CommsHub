@@ -1,0 +1,6 @@
+projectKey=RRIOTDEMO_CommsHub_AYRsuJQx5O9cwmTDcT4c
+serverUrl=https://9000-rmrosa25-backstage-z0cn5uhgyt4.ws-eu75.gitpod.io
+serverVersion=9.7.1.62043
+dashboardUrl=https://9000-rmrosa25-backstage-z0cn5uhgyt4.ws-eu75.gitpod.io/dashboard?id=RRIOTDEMO_CommsHub_AYRsuJQx5O9cwmTDcT4c
+ceTaskId=AYRta969O3vxe_6rjHWC
+ceTaskUrl=https://9000-rmrosa25-backstage-z0cn5uhgyt4.ws-eu75.gitpod.io/api/ce/task?id=AYRta969O3vxe_6rjHWC
