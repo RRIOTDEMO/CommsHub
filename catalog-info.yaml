@@ -15,7 +15,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     # jenkins.io/job-full-name: VF_IOT_MANAGED_CONNECTIVITY/MICROSERVICES/MicroApps_CommHub
     github.com/project-slug: RRIOTDEMO/CommsHub
-    sonarqube.org/project-key: RRIOTDEMO_CommsHub
+    sonarqube.org/project-key: local/RRIOTDEMO_CommsHub
 spec:
   type: service
   lifecycle: production
